@@ -4,7 +4,7 @@ I am a Technical Support Engineer looking to transition into the Software Engine
 
 - 👀 I’m interested pursuing a career as a Web Developer. 
 - 🌱 I’m currently working on the Web Development Program @ TripleTen.    
-- 🥅 2023 Goals: building my skills and creating a porfolio.      
+- 🥅 2023 Goals: recieve a job offer as a Web Developer.        
 - 💞️ I’m looking to collaborate on more Open Source projects.   
 - 📫 How to reach me: in my Likedin profile or send me an email.
 - ⚡ Fun fact: I have a identical twin.
